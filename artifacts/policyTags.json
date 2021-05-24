@@ -1,0 +1,8 @@
+{
+   "tagName": {
+      "value": "[parameters('tagName')]"
+   },
+   "tagValue": {
+      "value": "[parameters('tagValue')]"
+   }
+}
